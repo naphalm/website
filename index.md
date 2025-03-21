@@ -1,3 +1,5 @@
-### Small image
+### PSX Low Poly Car Pack
 
-![Cover](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Cover](https://github.com/naphalm/website/blob/main/assets/cover.png)
+
+![NX]https://github.com/naphalm/website/blob/main/assets/NX.png
